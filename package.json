@@ -46,7 +46,7 @@
   ],
   "license": "MIT",
   "main": "preset.js",
-  "name": "storybook-addon-apollo-client",
+  "name": "@lpgera/storybook-addon-apollo-client",
   "peerDependencies": {
     "@storybook/addon-actions": "^6.0.0",
     "@storybook/addons": "^6.0.0",
@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifeiscontent/storybook-addon-apollo-client.git"
+    "url": "https://github.com/lpgera/storybook-addon-apollo-client.git"
   },
   "scripts": {
     "build": "tsc --build",
